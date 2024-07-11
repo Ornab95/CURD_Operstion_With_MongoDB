@@ -22,10 +22,3 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation
 - Maven
 - MongoDB
 
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/crud-mongodb-springboot.git
-cd crud-mongodb-springboot
