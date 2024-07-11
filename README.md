@@ -27,5 +27,4 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/crud-mongodb-springboot.git
-cd crud-mongodb-springboot
+git clone [https://github.com/your-username/crud-mongodb-springboot.git](https://github.com/Ornab95/CURD_Operstion_With_MongoDB.git)
